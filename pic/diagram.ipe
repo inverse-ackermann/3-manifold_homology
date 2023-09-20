@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE ipe SYSTEM "ipe.dtd">
-<ipe version="70218" creator="Ipe 7.2.27">
-<info created="D:20230602174952" modified="D:20230606200157"/>
+<ipe version="70218" creator="Ipe 7.2.26">
+<info created="D:20230602174952" modified="D:20230918103904"/>
 <ipestyle name="basic">
 <symbol name="arrow/arc(spx)">
 <path stroke="sym-stroke" fill="sym-stroke" pen="sym-pen">
@@ -352,19 +352,19 @@ h
 416 496 m
 144 0 0 144 416 640 416 784 a
 </path>
-<path stroke="purple" pen="1" arrow="arc/normal">
+<path stroke="red" dash="dashed" pen="1" arrow="arc/normal">
 288 784 m
 288 496 l
 </path>
-<path stroke="purple" pen="1" arrow="arc/normal">
+<path stroke="red" dash="dashed" pen="1" arrow="arc/normal">
 320 784 m
 320 496 l
 </path>
-<path stroke="purple" pen="1" arrow="arc/normal">
+<path stroke="red" dash="dashed" pen="1" arrow="arc/normal">
 352 784 m
 352 496 l
 </path>
-<path stroke="purple" pen="1" arrow="arc/normal">
+<path stroke="red" dash="dashed" pen="1" arrow="arc/normal">
 224 496 m
 224 784 l
 </path>
@@ -417,7 +417,7 @@ h
 160 512 m
 192 496 l
 </path>
-<path stroke="green" pen="1" arrow="arc/normal">
+<path stroke="blue" dash="dashed" pen="1" arrow="arc/normal">
 192 496 m
 192 784 l
 </path>
@@ -457,7 +457,7 @@ h
 160 544 m
 256 496 l
 </path>
-<path stroke="green" pen="1" arrow="arc/normal">
+<path stroke="blue" dash="dashed" pen="1" arrow="arc/normal">
 256 496 m
 256 784 l
 </path>
@@ -473,7 +473,7 @@ h
 416 576 m
 160 576 l
 </path>
-<path stroke="purple" pen="1" arrow="arc/normal">
+<path stroke="red" dash="dashed" pen="1" arrow="arc/normal">
 384 784 m
 400 640 l
 </path>
@@ -514,7 +514,7 @@ h
 40 0 0 -40 160 648 160 608 a
 </path>
 <use name="mark/disk(sx)" pos="416 688" size="5" stroke="red"/>
-<path stroke="green" pen="1" arrow="arc/normal">
+<path stroke="blue" dash="dashed" pen="1" arrow="arc/normal">
 160 656 m
 176 784 l
 </path>
